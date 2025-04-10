@@ -1,0 +1,157 @@
+Prompt:
+“You are a virtual tour guide from 1901. You have tourists visiting the Eiffel Tower. Describe Eiffel Tower to your audience. Begin with
+1. Why it was built
+2. Then by how long it took them to build
+3. Where were the materials sourced to build
+4. Number of people it took to build
+5. End it with the number of people visiting the Eiffel tour annually in the 1900's, the amount of time it completes a full tour and why so many people visit this place each year.
+Make your tour funny by including 1 or 2 funny jokes at the end of the tour.”
+
+------------------------------------------
+
+Phi3:
+ollama run phi3
+>>> You are a virtual tour guide from 1901. You have tourists visiting the Eiffel Tower. Describe Eiffel Tower to your a
+... udience. Begin with 1. Why it was built 2. Then by how long it took them to build 3. Where were the materials source
+... d to build 4. Number of people it took to build 5. End it with the number of people visiting the Eiffel tour annuall
+... y in the 1900's, the amount of time it completes a full tour and why so many people visit this place each year. Make
+...  your tour funny by including 1 or 2 funny jokes at the end of the tour.
+Ladies and Gentleselves! Welcome to our delightful journey through history, where today we pay homage to one of
+Paris's greatest marvels—the illustrious Eiffel Tower! Now gather round as I regale you with tales most grand
+about this iron lady that touches the heavens.
+
+Firstly, why was such a monstrously tall structure erected in our fair city? The reason behind its creation lies
+not just within architectural audacity but also technological advancement and symbolic representation of France's
+industrial prowess—built as an entrance arch to celebrate the 1889 Exposition Universelle, which was a world’s
+fair held for this special occasion.
+
+Secondly - it took four years, eleven months, and five days from its conception in January '87 until they crowned
+her standing tall by March of ‘90! The construction process was quite the spectacle itself with over 125 workers
+operating round-the-clock to bring this vision into reality.
+
+The materials that gave birth to our magnificent tower hailed from around France, a testament to national unity
+and pride—a colossal amount of puddle iron forged in the heartland's foundries was transported across vast
+distances before coming together here atop Paris!
+
+A workforce consisting primarily of skilled laborers- some might say artisans - around a hundred strong helped to
+shape this metal monstrosity, yet they worked tirelessly under Gustave Eiffel's watchful eye. It was truly the
+collective effort that brought such an ambitious project into fruition!
+
+Annually during these early 1900 years (let us not forget), hundreds of thousands visited this iron lady for a
+glimpse at human ingenuity personified or perhaps just to marvel at her beauty under the Parisian sky. By my
+calculation, roughly between half and three-quarters millions set foot upon our Eiffel Tower annually in 1900s
+alone!
+
+Now here's an amusing tidbit: As you ascend this iron spire towards daylight from base to peak—it takes just about
+thirty minutes if one decides not dawdle at each landing platform along the way- imagine how many times that
+number of people have done exactly same in our past century!
+
+But why does such a colossal metal construct attract so much human curiosity, you ask? Well my dear friends - it
+stands as more than just an architectural marvel but also represents liberty and aspiration itself; gazing upon
+this spectacle from the ground sends shivers down everyone’s spine because they see themselves reflected in our
+daring to dream bigger!
+
+Now here's another fun joke for good measure - why did Gustave Eiffel refuse invitations? Because he didn't want
+his schedule 'elevated'. Ah but on serious note, I must say – every year during springtime Parisians flock like
+moths drawn to this flaming beacon of human achievement!
+
+Thank you for joining me today as we journeyed together through history - remember ladies and gentlemen: When in
+doubt about any monumental task ahead; just build it high enough so no one can ever reach the top! Now let's bid
+adieu with a grander appreciation towards our beloved Eiffel Tower.
+
+Till next time, Au revoir et bon voyage - but don’t forget to take some souvenir champagne glasses if you dare
+attempt that climb too often as they were originally intended by Gustave himself for those who ascended this iron
+lady more than 10 times! Ha hah!
+
+------------------------------------------
+
+Llama3:
+ollama run llama3
+>>> You are a virtual tour guide from 1901. You have tourists visiting the Eiffel Tower. Describe Eiffel Tower to your a
+... udience. Begin with 1. Why it was built 2. Then by how long it took them to build 3. Where were the materials source
+... d to build 4. Number of people it took to build 5. End it with the number of people visiting the Eiffel tour annuall
+... y in the 1900's, the amount of time it completes a full tour and why so many people visit this place each year. Make
+...  your tour funny by including 1 or 2 funny jokes at the end of the tour.
+Welcome, mes amis! I'm thrilled to be your virtual tour guide today as we explore the iconic Eiffel Tower, built
+for the 1889 World's Fair in Paris. Get ready to be amazed!
+
+**Why was it built?**
+The Eiffel Tower was constructed for the Exposition Universelle, a world's fair celebrating innovation and
+progress. It was meant to be a temporary structure, but its grandeur and engineering marvels won over the hearts
+of the French people. Now, it's an enduring symbol of Paris and one of the most recognizable landmarks in the
+world!
+
+**How long did it take to build?**
+Construction began in January 1887 and took approximately two years and two months to complete. That's right,
+folks! It was built in just over two years – quite a feat considering its massive scale and intricate details.
+
+**Where were the materials sourced?**
+The Eiffel Tower was built using iron girders, rivets, and other metal components. The majority of the iron came
+from the Charleroi region in Belgium, while the steel beams were sourced from France. The rest of the materials,
+like cement and stones, were locally sourced in Paris.
+
+**Number of people it took to build?**
+It's estimated that over 300 workers labored on the Eiffel Tower's construction site during its peak period. Can
+you imagine working at such a height with no safety harnesses or nets?
+
+**And now, let's talk about the numbers...**
+In the 1900s, the Eiffel Tower welcomed approximately 1 million visitors annually. That's a lot of people wanting
+to get up close and personal with this iconic structure! It takes around 30 minutes for visitors to complete a
+full tour, including walking up the stairs (or taking the elevator, if you're feeling fancy).
+
+**Why so many people visit each year?**
+Well, it's not just because of its stunning architecture or the romantic atmosphere (although those are great
+reasons too!). The Eiffel Tower has become an integral part of Parisian culture and a symbol of French engineering
+ingenuity. Visitors come to experience the tower's grandeur, take in the breathtaking views of the City of Light,
+and maybe even steal a kiss at sunset (wink, wink).
+
+And that's not all, folks! Here are some Eiffel Tower-themed jokes for you:
+
+Why did the Eiffel Tower go to therapy? Because it was feeling a little "boxed in"!
+
+What did the Eiffel Tower say when someone asked if it was having a good day? "I'm tower-ing above the rest, thank
+you very much!"
+
+Well, that's all the time we have for today's tour. I hope you've enjoyed this virtual adventure as much as I
+have! Until next time, à bientôt, and remember: the Eiffel Tower is always a good idea!
+
+------------------------------------------
+
+Llamma2-13b:
+ollama run llama2:13b
+>>> You are a virtual tour guide from 1901. You have tourists visiting the Eiffel Tower. Describe Eiffel Tower to your a
+... udience. Begin with 1. Why it was built 2. Then by how long it took them to build 3. Where were the materials source
+... d to build 4. Number of people it took to build 5. End it with the number of people visiting the Eiffel tour annuall
+... y in the 1900's, the amount of time it completes a full tour and why so many people visit this place each year. Make
+...  your tour funny by including 1 or 2 funny jokes at the end of the tour.
+
+Oh my gosh, welcome to the Eiffel Tower, folks! *adjusts monocle* This magnificent structure was built for the
+World's Fair in 1889, and let me tell you, it was quite the undertaking. *clears throat*
+
+Why was it built, you ask? Well, my dear tourists, the French wanted to show off their engineering prowess and
+create a symbol of Parisian grandeur. And boy, did they succeed! *winks*
+
+Now, I know what you're all dying to know: how long did it take to build this beast? *chuckles* Oh my, it took a
+whopping two years and two months to construct this beauty! Can you imagine? *shakes head in disbelief* The
+workers must have had iron blood and a heart of steel *laughs*.
+
+But enough about that, let's talk materials. The Eiffel Tower is made of wrought iron, which was the latest
+technology at the time. And where did they get this wonder material? Why, from the famous ironworks of Le Creusot,
+of course! *nods* The engineers were determined to use only the finest materials for their masterpiece.
+
+Now, I know you're all curious about how many people it took to build this towering giant. Well, my dear tourists,
+it took a staggering 300 workers to construct this beauty! Can you imagine? *gasp* It's a wonder they didn't need
+a map to find their way around the thing! *winks*
+
+But enough about the past, let's talk about the present. The Eiffel Tower is one of the most popular tourist
+attractions in the world, with over 7 million visitors each year! *gasps* Can you believe it? It's like a
+never-ending party up here! *laughs* And if you're wondering how long it takes to complete a full tour, well, let
+me tell you, my dear tourists, it takes about an hour and a half to climb to the top and take in all the
+breathtaking views.
+
+But why do so many people visit this place each year? *smirks* Well, my dear tourists, it's because the Eiffel
+Tower is simply the bee's knees! *laughs* It's a symbol of love, romance, and Parisian chic all rolled into one.
+And who doesn't want to experience that? *winks*
+
+And with that, my dear tourists, I bid you adieu. Thank you for joining me on this virtual tour of the Eiffel
+Tower. Remember, when in Paris, always look up! *laughs and bows* until next time, au revoir!

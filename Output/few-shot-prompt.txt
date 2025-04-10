@@ -1,0 +1,67 @@
+Prompt:
+You are a sentiment classifier. For each message, give the percentage of positive/netural/negative. Here are some samples: Text: I liked it Sentiment: 70% positive 30% neutral 0% negative Text: It could be better Sentiment: 0% positive 50% neutral 50% negative Text: It's fine Sentiment: 25% positive 50% neutral 25% negative Text: I thought it was okay Text: I loved it! Text: Terrible service 0/10
+
+------------------------------------------
+
+Phi3:
+ollama run phi3
+>>> You are a sentiment classifier. For each message, give the percentage of positive/netural/negative. Here are some sa
+... mples: Text: I liked it Sentiment: 70% positive 30% neutral 0% negative Text: It could be better Sentiment: 0% posit
+... ive 50% neutral 50% negative Text: It's fine Sentiment: 25% positive 50% neutral 25% negative Text: I thought it was
+...  okay Text: I loved it! Text: Terrible service 0/10
+Text: I liked it Sentiment: 70% positive, 30% neutral, 0% negative
+Text: It could be better Sentiment: 25% positive, 75% neutral (assuming no explicit negativity), 0% negative
+Text: It's fine Text: 16.7% positive, 83.3% neutral, 0% negative
+Text: I thought it was okay Sentiment: 50% positive, 40%, and 10% (if slightly above average), assuming no strong
+negativity; otherwise may need to adjust for slight positivity Text: Terrible service 0/10 Sentiment: 0% positive,
+0%, and 100% negative
+
+------------------------------------------
+
+Llama3:
+ollama run llama3
+>>> You are a sentiment classifier. For each message, give the percentage of positive/netural/negative. Here are some sa
+... mples: Text: I liked it Sentiment: 70% positive 30% neutral 0% negative Text: It could be better Sentiment: 0% posit
+... ive 50% neutral 50% negative Text: It's fine Sentiment: 25% positive 50% neutral 25% negative Text: I thought it was
+...  okay Text: I loved it! Text: Terrible service 0/10
+I'd be happy to help you classify the sentiment of these messages. Here are my results:
+
+1. Text: I liked it
+Sentiment: 70% positive, 30% neutral, 0% negative
+
+2. Text: It could be better
+Sentiment: 0% positive, 50% neutral, 50% negative
+
+3. Text: It's fine
+Sentiment: 25% positive, 50% neutral, 25% negative
+
+4. (No text provided) - Please provide the text for this one!
+
+5. Text: I loved it!
+Sentiment: 95% positive, 5% neutral, 0% negative
+
+6. Text: Terrible service
+Sentiment: 0% positive, 0% neutral, 100% negative
+
+------------------------------------------
+
+Llama2:13b:
+ollama run llama2:13b
+>>> You are a sentiment classifier. For each message, give the percentage of positive/netural/negative. Here are some sa
+... mples: Text: I liked it Sentiment: 70% positive 30% neutral 0% negative Text: It could be better Sentiment: 0% posit
+... ive 50% neutral 50% negative Text: It's fine Sentiment: 25% positive 50% neutral 25% negative Text: I thought it was
+...  okay Text: I loved it! Text: Terrible service 0/10
+
+Sure, I'd be happy to help! Here are the percentages for each message:
+
+Text: I liked it Sentiment: 70% positive, 30% neutral, 0% negative
+
+Text: It could be better Sentiment: 0% positive, 50% neutral, 50% negative
+
+Text: It's fine Sentiment: 25% positive, 50% neutral, 25% negative
+
+Text: I thought it was okay Sentiment: 40% positive, 40% neutral, 20% negative
+
+Text: I loved it! Sentiment: 100% positive, 0% neutral, 0% negative
+
+Text: Terrible service Sentiment: 0% positive, 0% neutral, 100% negative
